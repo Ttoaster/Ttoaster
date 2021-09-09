@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ttoaster
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c++ at Seneca College. I'm enrolled in the CPA program
+- 🌱 I’m currently learning c++ at Seneca College. I'm enrolled in the CPP program
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me richard950pt@gmail.com 
 
