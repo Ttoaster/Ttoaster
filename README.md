@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Richard Lowe
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning c++, JavaScript, SQL at Seneca College. I'm enrolled in the CPP program
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me richard950pt@gmail.com 
+- 👋 Hello, I’m Richard Lowe
+- 👀 I've finished 3 semesters of the CPP program at Seneca College and currently working on my 4th semester.
+- 🌱 I’m learned C, C++, JAVASCRIPT, BOOTSTRAP, REACT, SQL, PL/SQL, HTML, CSS, MONGODB, POSTGRES.
+- 📫 I'm reachable at richard950pt@gmail.com 
 
 <!---
 Ttoaster/Ttoaster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
