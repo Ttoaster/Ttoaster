@@ -1,4 +1,4 @@
- Hello, I’m Richard Lowe
+ Hello,
  - I graduated from Seneca College in 2022 with a Computer Programming Diploma.
  - I enjoy contributing to solutions for complex problems.
  - 📫 I'm reachable at richard950pt@gmail.com 
