@@ -1,5 +1,5 @@
  Hello,
- - I graduated from Seneca College in 2022 with a Computer Programming Diploma.
+ - I graduated from Seneca College with a Computer Programming Diploma (Honors).
  - I enjoy contributing to solutions for complex problems.
  - 📫 I'm reachable at richard950pt@gmail.com 
 
